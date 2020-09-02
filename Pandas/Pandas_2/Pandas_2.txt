@@ -1,0 +1,3 @@
+Here I store the basic expamles of Pandas Data operations,Data Cleaning, Pandas_Data_Visualization, 
+Slicing_out_column_Filtering_of_selective_rows_Aggregation. 
+Here all the examples are basic
